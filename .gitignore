@@ -1,5 +1,4 @@
-/public/          # Ignore the generated site
-/resources/
+public          # Ignore the generated site
 archetypes
 .DS_Store         # macOS system files
 config.lock
