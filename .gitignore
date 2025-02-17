@@ -1,0 +1,6 @@
+/public/          # Ignore the generated site
+/resources/
+archetypes
+.DS_Store         # macOS system files
+config.lock
+themes/PaperMod/node_modules # if applicable
