@@ -1,5 +1,6 @@
-public
+/home/piyush/Music/www/public
 archetypes
 .DS_Store         # macOS system files
 config.lock
 themes/PaperMod/node_modules
+public
