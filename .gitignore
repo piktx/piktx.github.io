@@ -3,4 +3,4 @@
 archetypes
 .DS_Store         # macOS system files
 config.lock
-themes/PaperMod/node_modules # if applicable
+themes/PaperMod/node_modules
