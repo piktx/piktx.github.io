@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on PKT</title>
+    <link>https://piktx.github.io/tags/</link>
+    <description>Recent content in Tags on PKT</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://piktx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://piktx.github.io/tags/ai/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llama3.2 Vision</title>
+      <link>https://piktx.github.io/tags/llama3.2-vision/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/llama3.2-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCR</title>
+      <link>https://piktx.github.io/tags/ocr/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/ocr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://piktx.github.io/tags/python/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streamlit</title>
+      <link>https://piktx.github.io/tags/streamlit/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chatbot</title>
+      <link>https://piktx.github.io/tags/chatbot/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gemini</title>
+      <link>https://piktx.github.io/tags/gemini/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/gemini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docling</title>
+      <link>https://piktx.github.io/tags/docling/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/docling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excel</title>
+      <link>https://piktx.github.io/tags/excel/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/excel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAG</title>
+      <link>https://piktx.github.io/tags/rag/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/rag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Analysis</title>
+      <link>https://piktx.github.io/tags/data-analysis/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groq API</title>
+      <link>https://piktx.github.io/tags/groq-api/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/groq-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PandasAI</title>
+      <link>https://piktx.github.io/tags/pandasai/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/pandasai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cohere</title>
+      <link>https://piktx.github.io/tags/cohere/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/cohere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CrewAI</title>
+      <link>https://piktx.github.io/tags/crewai/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/crewai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>https://piktx.github.io/tags/news/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agents</title>
+      <link>https://piktx.github.io/tags/agents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/agents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Airflow</title>
+      <link>https://piktx.github.io/tags/airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/airflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD</title>
+      <link>https://piktx.github.io/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flash</title>
+      <link>https://piktx.github.io/tags/flash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/flash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generation</title>
+      <link>https://piktx.github.io/tags/generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/generation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github Actions</title>
+      <link>https://piktx.github.io/tags/github-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/github-actions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>https://piktx.github.io/tags/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groq</title>
+      <link>https://piktx.github.io/tags/groq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/groq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llama3.2</title>
+      <link>https://piktx.github.io/tags/llama3.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/llama3.2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://piktx.github.io/tags/llm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MarkItDown</title>
+      <link>https://piktx.github.io/tags/markitdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/markitdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Models</title>
+      <link>https://piktx.github.io/tags/models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MongoDB</title>
+      <link>https://piktx.github.io/tags/mongodb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Power BI</title>
+      <link>https://piktx.github.io/tags/power-bi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://piktx.github.io/tags/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piktx.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
