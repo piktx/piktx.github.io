@@ -1,0 +1,88 @@
+baseURL = "https://piktx.github.io"
+languageCode = "en-us"
+title = "PKT"
+theme = "PaperMod"
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts"
+weight = 20
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+weight = 30
+
+[[menu.main]]
+identifier = "experience"
+name = "Experience"
+url = "/experience"
+weight = 40
+
+[params]
+showToc = true
+TocOpen = false
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+hideMeta = false
+ShowPostNavLinks = true
+comments = true
+ShowShareButtons = true
+ShowRssButtonInSectionTermList = true
+env = "production"
+hideDescriptionInList = false
+
+  [params.profileMode]
+  enabled = true
+  title = "Piyush Kumar Tiwari"
+  subtitle = "Hi 👋 I'm Piyush, a dynamic and detail-oriented Data Scientist with over 5 years of hands-on experience in making ML models and data pipelines. Expertise in Python, Machine Learning and SQL. Strong focus on Deep Reinforcement Learning, GEN AI, and driving actionable insights for decision-making using ML models."
+  imageUrl = "home/pkt.png"
+  imageWidth = 220
+  imageHeight = 220
+
+  [params.cover]
+  hiddenInList = false
+  hiddenInSingle = false
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:businessbypkt@gmail.com"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/pikt"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/piktx"
+
+  [[params.socialIcons]]
+  name = "X"
+  url = "https://x.com/PiyushKrTiwari"
+
+  [[params.socialIcons]]
+  name = "CV"
+  url = "https://pktx.xyz/resume.pdf"
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[markup.goldmark.renderer]
+unsafe = true
